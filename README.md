@@ -15,4 +15,4 @@ outcomes were verified by using various waves. The effectiveness of a one-wave n
 1.2%, according to studies done on other datasets.
 
 
-https%3A//doi.org/10.48550/arXiv.2302.10306
+https://doi.org/10.48550/arXiv.2302.10306
